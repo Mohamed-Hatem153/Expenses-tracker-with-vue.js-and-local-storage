@@ -1,5 +1,5 @@
 # vue-expense-tracker
-### --ued Tools:
+### -- Used Tools:
 #### Vue.js 3
 #### Store in localStorage
 
